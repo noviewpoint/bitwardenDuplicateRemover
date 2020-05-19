@@ -7,7 +7,7 @@ Script for removing duplicate records from Bitwarden
 
 1. Export Bitwarden data as json and save the file into the project folder.
 
-![Exporting Bitwarden records as json using the Bitwarden Web Vault]("exporting bitwarden json.png")
+![Exporting Bitwarden records as json using the Bitwarden Web Vault](https://raw.githubusercontent.com/noviewpoint/bitwardenDuplicateRemover/master/exporting%20bitwarden%20json.png)
 
 2. Run the script using syntax:
 
